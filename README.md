@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning and improving my Front End skills.
 - 💞️ I’m looking to collaborate on full-stack web projects using react for fronend and node for backend.
 - 📫 I love to connect, mail: onuorahofficial@gmail.com.
-- 😁
+😁
 
 <!---
 jsxike/jsxike is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
