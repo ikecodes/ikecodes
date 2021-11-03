@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Onuorah Ike, software developer based in Nigeria.
 - 👀 I’m interested in coding, sports and arts.
 - 🌱 I’m currently learning flutter and improving my Front End skills.
-- 💞️ I’m looking to collaborate on full-stack web projects using react for fronend and node for backend.
+- 💞️ I’m looking to collaborate on full-stack web projects using react for frontend and node for backend.
 - 📫 I love to connect, mail: onuorahofficial@gmail.com.
 😁
 
