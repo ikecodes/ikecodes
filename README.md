@@ -1,6 +1,6 @@
 ### Hi, I’m Onuorah Ike 👋
 - 💪 I love solving problems, working in teams, learning new things and building robost applications.
-- 🌱 Tech stack includes Reactjs, Nodejs, Expressjs, Redux, TypeScript, JavaScript, MongoDB.
+- 🌱 Tech stack includes Reactjs, React Native, Nodejs, Expressjs, Redux, TypeScript, JavaScript, MongoDB.
 - 📫 I love to connect @ikecodes@gmail.com.
 
 <!---
